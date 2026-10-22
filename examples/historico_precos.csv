@@ -1,0 +1,3 @@
+data,supermercado,unidade,item_normalizado,marca,categoria,quantidade_base,unidade_medida,preco_unitario,preco_total,origem,id_compra,observacoes
+2026-10-01,Exemplo Mercado,Unidade Centro,Arroz tipo 1 1 kg,Marca Exemplo,"Arroz, feijão, massas e grãos",1,kg,8.90,17.80,cupom,CMP-EXEMPLO-001,Dados fictícios
+2026-10-01,Exemplo Mercado,Unidade Centro,Leite integral 1 L,Marca Exemplo,"Leite, ovos e derivados",1,L,5.45,21.80,cupom,CMP-EXEMPLO-001,Dados fictícios
