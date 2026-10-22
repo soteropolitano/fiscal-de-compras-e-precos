@@ -1,0 +1,3 @@
+id_item,id_compra,data,supermercado,item_original,item_normalizado,marca,categoria,quantidade,unidade,preco_anunciado,preco_prateleira,preco_cupom,total_esperado,total_cobrado,diferenca,status,promocao,fonte,observacoes
+ITM-EXEMPLO-001,CMP-EXEMPLO-001,2026-10-01,Exemplo Mercado,ARROZ TP1 1KG,Arroz tipo 1 1 kg,Marca Exemplo,"Arroz, feijão, massas e grãos",2,UN,8.90,8.90,8.90,17.80,17.80,0.00,OK,,cupom,Dados fictícios
+ITM-EXEMPLO-002,CMP-EXEMPLO-001,2026-10-01,Exemplo Mercado,LT INT 1L,Leite integral 1 L,Marca Exemplo,"Leite, ovos e derivados",4,UN,4.95,4.95,5.45,19.80,21.80,2.00,Divergência provável,Preço anunciado pode exigir clube,cupom,Confirmar regra da promoção
