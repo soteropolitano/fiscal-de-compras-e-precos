@@ -1,5 +1,7 @@
 # Fiscal de Compras e Preços
 
+![Capa do projeto: Fiscal de Compras e Preços](https://raw.githubusercontent.com/soteropolitano/fiscal-de-compras-e-precos/main/assets/linkedin-cover.jpg)
+
 Durante uma compra, o preço pode aparecer de três formas: no anúncio, na prateleira e no cupom fiscal. Quando os valores não coincidem, conferir tudo manualmente dá trabalho e a diferença pode passar despercebida.
 
 Criei este MVP para organizar esse processo. O assistente recebe fotos da lista, dos preços e do cupom, estrutura os itens, compara os valores e mantém um histórico no Google Sheets. As imagens ficam no Google Drive como evidência da conferência.
@@ -94,6 +96,12 @@ Os próximos testes devem medir a leitura de diferentes formatos de cupom, promo
 - [Decisões](docs/decisoes.md)
 - [Limitações e próximos testes](docs/limitacoes.md)
 - [Segurança e privacidade](SECURITY.md)
+
+## Capa da planilha relacionada: Minhas Compras
+
+A planilha pessoal de controle não é uma automação de gastos. Esta arte é independente dos dados da planilha e pode ser usada na área de projetos do LinkedIn.
+
+![Capa do projeto relacionado: Minhas Compras — controle pessoal](https://raw.githubusercontent.com/soteropolitano/fiscal-de-compras-e-precos/main/assets/controle-pessoal-linkedin-cover.jpg)
 
 ## Licença
 
