@@ -1,0 +1,2 @@
+id_divergencia,data,supermercado,id_compra,item,valor_esperado,valor_cobrado,diferenca,tipo,status,evidencia,observacoes
+DIV-EXEMPLO-001,2026-10-01,Exemplo Mercado,CMP-EXEMPLO-001,Leite integral 1 L,19.80,21.80,2.00,Preço do cupom diferente do anunciado,Precisa confirmar,,Confirmar se a oferta exigia clube
