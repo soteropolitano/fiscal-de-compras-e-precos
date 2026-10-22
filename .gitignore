@@ -1,0 +1,24 @@
+# Dados reais e arquivos locais
+dados-reais/
+cupons/
+evidencias/
+*.pdf
+*.jpg
+*.jpeg
+*.png
+*.webp
+*.xlsx
+*.xls
+*.ods
+
+# Credenciais e configuração local
+.env
+.env.*
+*.key
+*.pem
+credentials*.json
+token*.json
+
+# Arquivos temporários
+~*
+.DS_Store
