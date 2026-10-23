@@ -87,6 +87,10 @@ O MVP já tem a estrutura de dados, as regras de comparação e o fluxo entre Ge
 
 Os próximos testes devem medir a leitura de diferentes formatos de cupom, promoções condicionais, produtos vendidos por peso e a taxa de itens que ainda precisam de confirmação manual.
 
+## Arquivos privados de trabalho
+
+As instruções completas, a planilha pessoal e os materiais de trabalho ficam no [repositório privado Codex](https://github.com/soteropolitano/Codex/tree/main/projetos/fiscal-de-compras-e-precos/originais). Este repositório público mantém a documentação e os exemplos fictícios.
+
 ## Documentação
 
 - [Arquitetura](docs/arquitetura.md)
