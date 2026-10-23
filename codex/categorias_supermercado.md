@@ -1,0 +1,14 @@
+- Arroz, feijão, massas e grãos
+- Carnes, frango e peixe
+- Leite, ovos e derivados
+- Hortifruti
+- Limpeza
+- Higiene pessoal
+- Bebidas
+- Padaria
+- Congelados
+- Enlatados e conservas
+- Temperos e molhos
+- Pet
+- Farmácia
+- Outros
