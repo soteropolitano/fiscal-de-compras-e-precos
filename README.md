@@ -89,7 +89,7 @@ Os próximos testes devem medir a leitura de diferentes formatos de cupom, promo
 
 ## Arquivos privados de trabalho
 
-As instruções completas, a planilha pessoal e os materiais de trabalho ficam no [repositório privado Codex](https://github.com/soteropolitano/Codex/tree/main/projetos/fiscal-de-compras-e-precos/originais). Este repositório público mantém a documentação e os exemplos fictícios.
+As instruções completas, a planilha pessoal e os materiais de trabalho ficam no [pasta privada do projeto no Codex](https://github.com/soteropolitano/Codex/tree/main/projetos/fiscal-de-compras-e-precos). Este repositório público mantém a documentação e os exemplos fictícios.
 
 ## Documentação
 
