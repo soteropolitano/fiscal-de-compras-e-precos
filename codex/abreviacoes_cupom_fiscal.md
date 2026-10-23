@@ -1,0 +1,15 @@
+- **LT** = leite. Pode aparecer como LT INT 1L
+- **INT** = integral. Comum em leite integral
+- **DESN** = desnatado. Comum em leite desnatado
+- **CX** = caixa. Unidade ou embalagem
+- **UN** = unidade. Unidade avulsa
+- **KG** = quilograma. Peso
+- **PC** = pacote. Pacote
+- **PCT** = pacote. Pacote
+- **FD** = fardo. Fardo
+- **PROMO** = promoção. Condição promocional
+- **DESC** = desconto. Desconto aplicado
+- **APP** = aplicativo. Pode exigir cadastro ou cupom no app
+- **CLUBE** = clube do mercado. Pode depender de CPF ou cadastro
+- **LV** = leve. Promoções como leve 3 pague 2
+- **PG** = pague. Promoções como leve 3 pague 2
